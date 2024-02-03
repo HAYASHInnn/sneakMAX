@@ -1,0 +1,4 @@
+name: sneakMAX
+version: '${version}'
+main: plugin.sneakmax.SneakMAX
+api-version: '1.20'
